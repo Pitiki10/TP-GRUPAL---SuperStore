@@ -5,7 +5,7 @@
 *   **Gonzalo Randazzo** - 921272 
 *   **Valeria Perez** - 921312
 *   **Franco Isla Toconas** - 921290
-*   **Cristian Gutierrez** - 991277  
+*   **Cristian Gutierrez** - 921277  
 
 ## 🎯 Objetivo del Proyecto
 Transformar los datos brutos del dataset **Superstore** en insights estratégicos de negocio. Nos enfocamos en responder preguntas críticas sobre rentabilidad, eficiencia logística y comportamiento del cliente para identificar fugas de dinero y proponer optimizaciones operativas.
