@@ -8,7 +8,7 @@
 *   **Cristian Gutierrez** - 921277  
 
 ## 🎯 Objetivo del Proyecto
-Transformar los datos brutos del dataset **Superstore** en insights estratégicos de negocio. Nos enfocamos en responder preguntas críticas sobre rentabilidad..
+Transformar los datos brutos del dataset **Superstore** en insights estratégicos de negocio. Nos enfocamos en responder preguntas críticas sobre rentabilidad.
 
 ## 📂 Estructura del Repositorio
 *   `data/superstore.csv`: Dataset original con el histórico de ventas y operaciones.
