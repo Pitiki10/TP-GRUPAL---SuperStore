@@ -8,7 +8,7 @@
 *   **Cristian Gutierrez** - 921277  
 
 ## 🎯 Objetivo del Proyecto
-Transformar los datos brutos del dataset **Superstore** en insights estratégicos de negocio. Nos enfocamos en responder preguntas críticas sobre rentabilidad, eficiencia logística y comportamiento del cliente para identificar fugas de dinero y proponer optimizaciones operativas.
+Transformar los datos brutos del dataset **Superstore** en insights estratégicos de negocio. Nos enfocamos en responder preguntas críticas sobre rentabilidad..
 
 ## 📂 Estructura del Repositorio
 *   `data/superstore.csv`: Dataset original con el histórico de ventas y operaciones.
@@ -16,7 +16,7 @@ Transformar los datos brutos del dataset **Superstore** en insights estratégico
 *   `README.md`: Este archivo con la presentación y documentación del proyecto.
 
 ## ⚙️ Tecnologías y Librerías Utilizadas
-*   **Python 3.x**
+*   **Python 3.14**
 *   **Pandas & NumPy** (Manipulación y limpieza de datos)
 *   **Matplotlib & Seaborn** (Visualización estadística)
 *   **SymPy** (Cálculo simbólico analítico)
