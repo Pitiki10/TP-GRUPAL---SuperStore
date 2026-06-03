@@ -26,7 +26,7 @@ Transformar los datos brutos del dataset **Superstore** en insights estratégico
 - [x] Formulación de preguntas de negocio e hipótesis.
 - [x] Configuración del entorno e importación de librerías.
 - [x] Exploración inicial de la estructura de datos (`.info()` y `.describe()`).
-- [ ] Limpieza y transformación de datos (Data Wrangling).
-- [ ] Agregación estadística por niveles de descuento y ajuste de funciones.
+- [x] Limpieza y transformación de datos (Data Wrangling).
+- [x] Agregación estadística por niveles de descuento y ajuste de funciones.
 - [ ] Optimización marginal (Derivadas), cálculo de elasticidades y analisis descriptivo.
 - [ ] Validación de hipótesis y conclusiones finales.
